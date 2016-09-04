@@ -1,0 +1,3 @@
+.checkbox-list-item label :nth-child(2) {
+    margin-left: 10px;
+}
